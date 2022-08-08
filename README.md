@@ -1,5 +1,5 @@
 # Prediction-on-Portuguese-banking-institution
-The Data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution.By applying Logistics Regression I have predicted whether the client will subscribe (1/0) to a term deposit.
+The Data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. By applying Logistics Regression I have predicted whether the client will subscribe (1/0) to a term deposit.
 ## Approach
 - Importing Libraries
 - Data Preprocessing
